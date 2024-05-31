@@ -1,0 +1,130 @@
+{
+      "users": [
+            {
+                  "first_name": "Fayozbek",
+                  "last_name": "Xolyarov",
+                  "phone_number": "883626226",
+                  "card_number": "5614680002034251",
+                  "balanc": 80000.0,
+                  "login": "1bk26341",
+                  "password": "15975302",
+                  "birth_date": "2002-12-15",
+                  "status": "user"
+            },
+            {
+                  "first_name": "Muhammadjon",
+                  "last_name": "Xamidov",
+                  "phone_number": "881414253",
+                  "card_number": "5614680004402051",
+                  "balanc": 110000.0,
+                  "login": "1bk26331",
+                  "password": "81368888",
+                  "birth_date": "2003-08-20",
+                  "status": "admin"
+            },
+            {
+                  "first_name": "Abdulhamidjon",
+                  "last_name": "Xomidov",
+                  "phone_number": "881414133",
+                  "card_number": "5614680014029752",
+                  "balanc": 206000.0,
+                  "login": "1bk26321",
+                  "password": "7982050723",
+                  "birth_date": "2000-10-25",
+                  "status": "admin"
+            },
+            {
+                  "first_name": "Karim",
+                  "last_name": "Davrononv",
+                  "phone_number": "883253622",
+                  "card_number": "5614680063251452",
+                  "balanc": -11000.0,
+                  "login": "1bk26365",
+                  "password": "456932187",
+                  "birth_date": "2002-05-15",
+                  "status": "user"
+            },
+            {
+                  "first_name": "Omadbek",
+                  "last_name": "Salomov",
+                  "phone_number": "936565198",
+                  "card_number": "5614680006025487",
+                  "balanc": 110000.0,
+                  "login": "1bk25487",
+                  "password": "26351141",
+                  "birth_date": "2002-11-14",
+                  "status": "user"
+            },
+            {
+                  "first_name": "Kamol",
+                  "last_name": "Kamolov",
+                  "phone_number": "950054562",
+                  "card_number": "5614680032514785",
+                  "balanc": 135000.0,
+                  "login": "1bk26459",
+                  "password": "126351222",
+                  "birth_date": "2002-02-24",
+                  "status": "user"
+            },
+            {
+                  "first_name": "ynj",
+                  "last_name": "hrn",
+                  "phone_number": "999999999",
+                  "card_number": "1234567891234567",
+                  "balanc": 60000.0,
+                  "birth_date": "333",
+                  "status": "user",
+                  "create_time": "2024-04-22 15:36:24.939998"
+            },
+            {
+                  "first_name": "sav",
+                  "last_name": "af",
+                  "phone_number": "111111111",
+                  "card_number": "3625147981524367",
+                  "balanc": 20000.0,
+                  "birth_date": "2004-12-30",
+                  "status": "user",
+                  "create_time": "2024-04-24 10:01:47.514777"
+            },
+            {
+                  "first_name": "erq",
+                  "last_name": "erqv",
+                  "phone_number": "369258147",
+                  "card_number": "1632547893562147",
+                  "balanc": 20000.0,
+                  "birth_date": "2003-11-26",
+                  "status": "user",
+                  "create_time": "2024-04-24 10:15:52.916982"
+            },
+            {
+                  "first_name": "Janibek",
+                  "last_name": "Sobirov",
+                  "phone_number": "881415623",
+                  "card_number": "8600532452637845",
+                  "balanc": 15000.0,
+                  "birth_date": "2004-06-07",
+                  "status": "user",
+                  "create_time": "2024-05-08 15:27:16.515541"
+            },
+            {
+                  "first_name": "Salimboy",
+                  "last_name": "Diyorov",
+                  "phone_number": "881426598",
+                  "card_number": "8600060156425641",
+                  "balanc": 30000.0,
+                  "birth_date": "2004-55-55",
+                  "status": "user",
+                  "create_time": "2024-05-08 15:48:23.446907"
+            },
+            {
+                  "first_name": "7749",
+                  "last_name": "7749",
+                  "phone_number": "999999996",
+                  "card_number": "3625149876050403",
+                  "balanc": -36000.0,
+                  "birth_date": "66",
+                  "status": "user",
+                  "create_time": "2024-05-11 22:28:57.756582"
+            }
+      ]
+}

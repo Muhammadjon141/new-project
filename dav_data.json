@@ -1,0 +1,32 @@
+{
+      "tashkilot": [
+            {
+                  "id": "3061",
+                  "hudud": "Farg'ona",
+                  "nomi": "Elektr energiya",
+                  "hisobraqami": "4000101025631425",
+                  "mablag'": 50000
+            },
+            {
+                  "id": "3062",
+                  "hudud": "Andijon",
+                  "nomi": "Elektr energiya",
+                  "hisobraqami": "4000101025635295",
+                  "mablag'": 100000.0
+            },
+            {
+                  "id": "6345",
+                  "hudud": "Farg'ona",
+                  "nomi": "Hudud gaz",
+                  "hisobraqami": "3600101025631425",
+                  "mablag'": 126000.0
+            },
+            {
+                  "id": "6344",
+                  "hudud": "Andijon",
+                  "nomi": "Hudud gaz",
+                  "hisobraqami": "3600101025634598",
+                  "mablag'": 150000
+            }
+      ]
+}
