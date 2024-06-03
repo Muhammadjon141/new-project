@@ -1,5 +1,6 @@
 class kka:
-    pass
+    def sfgbsb():
+        pass
 
 
 class kmg:
