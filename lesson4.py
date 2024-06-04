@@ -1,6 +1,9 @@
 class Stack:
-    def __init__(self):
-        self.items = []
+    def __init__(self, items=None):
+        if items is None:
+            self.items = []
+        elif items == []:
+            self.items = items
 
     def is_empty(self):
         return len(self.items) == 0
